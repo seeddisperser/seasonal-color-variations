@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function GradientMaker(hex0, hex1, hex2, hex3, month, day) {
+export default function SeasonalColorVariant(hex0, hex1, hex2, hex3, month, day) {
 
     // transform date into numeric step value
 
@@ -25,8 +25,6 @@ export default function GradientMaker(hex0, hex1, hex2, hex3, month, day) {
     var rgb1 = hexToRgbConverter(hex1);
     var rgb2 = hexToRgbConverter(hex2);
     var rgb3 = hexToRgbConverter(hex3);
-
-  
 
     // interpolates gradient step for rgb values
 
