@@ -1,0 +1,26 @@
+{
+  "name": "seasonal-color-variations",
+  "version": "1.0.0",
+  "description": "A light-weight package to create seasonal color variations for react applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seeddisperser/seasonal-color-variations.git"
+  },
+  "keywords": [
+    "color",
+    "system",
+    "seasonal",
+    "30daysofmaking",
+    "react"
+  ],
+  "author": "Calvin Hutcheon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seeddisperser/seasonal-color-variations/issues"
+  },
+  "homepage": "https://github.com/seeddisperser/seasonal-color-variations#readme"
+}

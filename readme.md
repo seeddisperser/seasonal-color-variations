@@ -6,12 +6,18 @@ Choose color variations for each season, and Seasonal Color Variations creates a
 
 ## Installation
 
+```
+npm i seasonal-color-variations
+```
+
 ## Use
 
 Below is an example of how to use this package. Import the function. Declare your four color variations, and pass a month and day value. 
 
 ```
 import SeasonalColorVariation from 'SeasonalColorVariation'
+
+```
 
 export default function Home() {
  
