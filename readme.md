@@ -14,11 +14,11 @@ npm i seasonal-color-variations
 
 Below is an example of how to use this package. Import the function. Declare your four color variations, and pass a month and day value. 
 
-```
+```jsx
 import SeasonalColorVariation from 'SeasonalColorVariation'
-
 ```
 
+```jsx
 export default function Home() {
  
   const [startDate, setStartDate] = useState(new Date());
